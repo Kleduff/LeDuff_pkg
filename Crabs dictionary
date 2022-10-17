@@ -1,0 +1,9 @@
+The color column tells us what color each crab was when it was discovered.
+The sex column tells us what sex each particular crab is.
+The frontal_lobe column tells us the length and measurement of the crabs frontal lobe.
+The rear_width column tells us the measurement of the crabs rear_width
+The carapace_length column tells us the length of the ridge on the crab to the middle of the eyes
+The carapace_width column tells us how wide this ridge is
+The body_depth tells us the measurement of the crabs body depth
+The latitide column provide us the area that the crab was located in
+Note that most of the column names are self explanatory.
